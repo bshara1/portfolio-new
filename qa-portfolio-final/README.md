@@ -1,6 +1,6 @@
 # Bishara Barhoum — QA Engineer Portfolio
 
-Responsive personal portfolio for **Bishara Barhoum**, Quality Assurance Engineer.
+ **Bishara Barhoum**, Quality Assurance Engineer.
 
 ## Profile
 - LinkedIn: https://www.linkedin.com/in/bishara-barhoum-b8505b319
@@ -29,12 +29,3 @@ Responsive personal portfolio for **Bishara Barhoum**, Quality Assurance Enginee
 - API Testing — QAcart, September 2024
 - Automation Testing — QAcart, July 2024
 - Manual Testing — QAcart, June 2024
-
-## Run locally
-Open `index.html` in a browser.
-
-## GitHub Pages
-1. Upload the project files to the repository.
-2. Go to **Settings → Pages**.
-3. Select **Deploy from a branch → main → / (root)**.
-4. Save and open the generated GitHub Pages URL.
